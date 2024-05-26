@@ -23,7 +23,7 @@ export default function  Resume(){
                         <h1 className="text-[21px] font-medium mb-2 max-[769px]:w-[85%] max-[586px]:text-[18px]">ICT Intern </h1>
                         <p className="font-medium text-gray-500 text-[17px] mb-1 max-[769px]:w-[85%] max-[586px]:text-[16px]">NEITI HOUSE | Abuja </p>
                         <h2 className="bg-blue-600 text-white text-[13px] px-3 py-[6px] rounded-3xl inline-block ">2014 - 2016 </h2>
-                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px]">Gained comprehensive experience in various aspects of ICT, including system administration, network management, and technical support. This role allowed me to develop a broad skill set and contribute to the efficient operation of the company’s IT infrastructure.</p>
+                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px]">Gained comprehensive experience in various aspects of ICT, including system administration, network management, and technical support. Developing a broad skill set, contributing to the efficient operation of the company’s IT infrastructure.</p>
                         <div className="absolute top-2 -left-[8px] w-[16px] h-[16px] border-4 border-blue-600 rounded-full"></div>
                     </div>
 
@@ -31,7 +31,7 @@ export default function  Resume(){
                         <h1 className="text-[21px] font-medium mb-2 max-[769px]:w-[85%] max-[586px]:text-[18px]">Front-end development Intern</h1>
                         <p className="font-medium text-gray-500 text-[17px] mb-1 max-[769px]:w-[85%] max-[586px]:text-[16px]">Juray Smart Solutions | Abuja</p>
                         <h2 className="bg-blue-600 text-white text-[13px] px-3 py-[6px] rounded-3xl inline-block">2024 - Till Date</h2>
-                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px] "> Acquired hands-on experience in building and enhancing user interfaces for web applications. I worked closely with a team of developers and designers to create engaging, responsive, and accessible web experiences.</p>
+                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px] "> Acquired hands-on experience in building and enhancing user interfaces for web applications. Working closely with a team of developers and designers to create engaging, responsive, and accessible web experiences.</p>
                         <div className="absolute top-2 -right-[8px] w-[16px] h-[16px] border-4 border-blue-600 rounded-full max-[769px]:left-[72px] max-[586px]:left-[20px]"></div>
                     </div>
 
@@ -39,7 +39,7 @@ export default function  Resume(){
                         <h1 className="text-[21px] font-medium mb-2 max-[769px]:w-[85%] max-[586px]:text-[18px]">Bachelor Degree (Mechatronics Engineering)</h1>
                         <p className="font-medium text-gray-500 text-[17px] mb-1 max-[769px]:w-[85%] max-[586px]:text-[16px]">Afe Babalola University | Ado-Ekiti</p>
                         <h2 className="bg-blue-600 text-white text-[13px] px-3 py-[6px] rounded-3xl inline-block">2020 - Till Date</h2>
-                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px]">Gained a comprehensive understanding of the interdisciplinary field combining mechanical, electronics, computer science, and control engineering. Throughout my studies, I developed a robust skill set and theoretical knowledge that has prepared me for a career in robotics and automation.</p>
+                        <p className="font-medium text-gray-500 text-[17px] mt-2 max-[769px]:w-[90%] max-[586px]:text-[16px]">Gained a comprehensive understanding of the interdisciplinary field combining mechanical, electronics, computer science, and control engineering. During my studies, developed a robust skill set and theoretical knowledge that has prepared me for a career in robotics and automation.</p>
                         <div className="absolute top-2 -left-[8px] w-[16px] h-[16px] border-4 border-blue-600 rounded-full"></div>
                     </div>
                 </div>

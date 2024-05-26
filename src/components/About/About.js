@@ -25,7 +25,7 @@ export default function About(){
                         </defs>
                     </svg>
                     <h2 className="text-[30px] font-medium mb-3 max-[769px]:text-[20px]">Connect With Me</h2>
-                    <p className="text-gray-500 text-[17px] font-medium max-[769px]:text-[16px] max-[769px]:w-[90%]">Challenges me to push the boundaries of what's possible on the web, whether it's building intricate user interfaces, optimizing web performance, or ensuring cross-browser compatibility. Dedicated to delivering top-notch solutions.</p>
+                    <p className="text-gray-500 text-[17px] font-medium max-[769px]:text-[16px] max-[769px]:w-[90%]">Challenges make me to push the boundaries of what's possible on the web, whether it's building intricate user interfaces, optimizing web performance, or ensuring cross-browser compatibility. Dedicated to delivering top-notch solutions.</p>
                     <div className="flex mt-10 gap-4">
                         <a href="/">
                             <div className=" text-gray-400 transition-all hover:text-white hover:bg-blue-600 w-9 h-9 rounded-full text-[20px] border flex items-center justify-center"><IconBxlFacebook/></div>
