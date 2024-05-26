@@ -1,0 +1,18 @@
+.service-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px ,1fr));
+    gap: 30px;
+}
+.service-card:hover > .icon{
+    background-color: white;
+    color:  rgb(37 99 235)
+}
+.service-card:hover > .note{
+    color: white;
+}
+
+@media (max-width:1024px){
+    .service-grid{
+        grid-template-columns: repeat(auto-fit, minmax(280px ,1fr));
+    }  
+}

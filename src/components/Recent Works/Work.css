@@ -1,0 +1,8 @@
+.overlay{
+    visibility: hidden;
+}
+
+.works:hover > .overlay{
+   
+    visibility: visible;
+}

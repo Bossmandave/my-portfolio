@@ -1,0 +1,11 @@
+.hero-wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(500px, 1fr));
+    row-gap: 20px;
+}
+
+@media (max-width:586px){
+    .hero-wrapper{
+        grid-template-columns: repeat(auto-fit , minmax(300px, 1fr));
+    }    
+}
