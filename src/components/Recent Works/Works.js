@@ -8,7 +8,7 @@ export default function Works(){
                 <div>
                     <h2 className="text-blue-600 font-medium text-[22px] max-[769px]:text-[19px] max-[586px]:text-[17px">Creative Portfolios</h2>
                     <h1 className="text-[45px] text-slate-800 font-bold max-[769px]:text-[35px] max-[586px]:text-[30px]">Recent Works</h1>
-                    <p className="text-gray-500 font-medium text-[18px] w-[50%] m-auto max-[769px]:w-[75%] max-[769px]:text-[16px]">I invite you to peruse my portfolio, where you'll find a curated selection of projects that showcase my expertise and creativity. Click on each project to see more details.</p>
+                    <p className="text-gray-500 font-medium text-[18px] w-[50%] m-auto max-[769px]:w-[75%] max-[769px]:text-[16px]">I invite you to peruse my portfolio, where you will find a curated selection of projects that showcase my expertise and creativity. Click on each project to see more details.</p>
                 </div>
                 <div className="flex items-center justify-center mt-20">
                     <div className="basis-[70%] max-[769px]:basis-[95%]">

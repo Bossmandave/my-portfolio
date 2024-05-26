@@ -38,10 +38,10 @@ export default function Services(){
         <section className="services" id='service'>
             <div className="pt-28 "> 
                 <div className="text-center">
-                    <h3 className="text-blue-600 text-[20px] font-medium  max-[769px]:text-[18px] max-[586px]:text-[16px]">What I Offer?</h3>
+                    <h3 className="text-blue-600 text-[20px] font-medium  max-[769px]:text-[18px] max-[586px]:text-[16px]">What I Offer</h3>
                     <h1 className="text-[45px] text-slate-800 font-bold mb-2 max-[769px]:text-[35px] max-[586px]:text-[30px]">My Services</h1>
                     <p className="text-gray-500 text-[18px] font-medium w-[50%] m-auto max-[769px]:w-[75%] max-[769px]:text-[16px]">
-                        I specialize in crafting visually stunning and user-friendly websites that are responsive across all devices.</p>
+                        Specializes in crafting visually stunning and user-friendly websites that are responsive across all devices.</p>
                 </div>
             </div>
             <div className="service-grid px-[60px] my-[70px] max-[586px]:px-[15px]">

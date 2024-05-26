@@ -8,7 +8,7 @@ export default function Contact(){
                 <div className="text-center">
                     <h2 className="text-blue-600 font-medium text-[20px] max-[769px]:text-[18px] max-[586px]:text-[16px]">Contact me</h2>
                     <h1 className="text-[45px] text-slate-800 font-bold mb-2 max-[769px]:text-[35px] max-[586px]:text-[30px]">Have any Project in Mind?</h1>
-                    <p className="text-gray-500 font-medium text-[18px] w-[50%] m-auto max-[769px]:w-[75%] max-[769px]:text-[16px]">I'm always excited to connect with fellow developers, potential collaborators, or anyone interested in my work. If you have a project in mind or simply wish to connect, I'd love to hear from you. 
+                    <p className="text-gray-500 font-medium text-[18px] w-[50%] m-auto max-[769px]:w-[75%] max-[769px]:text-[16px]">Excited to connect with fellow developers, potential collaborators, or anyone interested in my work. If you have a project in mind or simply wish to connect, would love to hear from you. 
                     Let's collaborate to bring your vision to life!.</p>
                 </div>
 
