@@ -27,7 +27,7 @@ export default function HeroSection() {
   };
 
   return (
-    <section className="hero min-h-screen flex items-center justify-center py-20 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+    <section className="hero min-h-screen flex items-center justify-center md:py-20 py-10 px-4 md:px-8 lg:px-16 relative overflow-hidden">
       {/* Animated Background Gradient */}
       <motion.div
         className="absolute inset-0 bg-gradient-to-br from-blue-50 via-white to-purple-50 -z-10"
@@ -38,7 +38,7 @@ export default function HeroSection() {
 
       {/* Floating Gradient Orbs */}
       <motion.div
-        className="absolute top-20 left-10 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20"
+        className="absolute top-20 left-10 w-40 h-40 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl opacity-50"
         animate={{
           x: [0, 100, 0],
           y: [0, -50, 0],
