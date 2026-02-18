@@ -103,7 +103,7 @@ export default function Works() {
       description: 'A comprehensive, modern church management website built with React, TypeScript, and Firebase. This platform provides a complete solution for churches to manage their online presence, content, donations, and community engagement.',
       image: project1,
       technologies: ['React', 'Tailwind CSS', 'Framer Motion','TypeScript', 'Firebase'],
-      liveUrl: 'https://sanctuary-web-ashen.vercel.app/',
+      liveUrl: 'https://www.sanctuaryaltar.org/',
       githubUrl: "https://github.com/Bossmandave/sanctuary-web",
     },
     {
